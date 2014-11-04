@@ -16,6 +16,14 @@ class Calculator
   def divide(dividend, divisor)
     return dividend / divisor
   end
+
+  def sqaure(number)
+    return square * square
+  end
+
+  def power(number, exponent)
+    return number ** exponent
+  end
 end
 
 # Tests below:
