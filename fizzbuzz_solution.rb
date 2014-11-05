@@ -16,7 +16,7 @@ class Fizzbuzz
   end
 end
 
-# Fizzbuzz.new.go!
+Fizzbuzz.new.go!
 
 RSpec.describe Fizzbuzz do
   describe '#output' do

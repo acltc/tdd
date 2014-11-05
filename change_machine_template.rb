@@ -3,7 +3,7 @@ require 'rspec'
 class ChangeMachine
 
   def give_change(money)
-
+    
   end
 end
 
