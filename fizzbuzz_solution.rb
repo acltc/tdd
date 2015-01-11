@@ -1,4 +1,4 @@
-require 'rspec'
+require 'rspec' #test
 
 class Fizzbuzz
   def output(number)
